@@ -4,7 +4,7 @@
   "description": "first try",
   "main": "index.js",
   "scripts": {
-    "start": "node index3.js"
+    "start": "node index4.js"
   },
   "repository": {
     "type": "git",
