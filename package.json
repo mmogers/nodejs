@@ -4,12 +4,15 @@
   "description": "first try",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "NodeJsStartLearning"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "currency-converter-lt": "^2.0.1"
+  }
 }
